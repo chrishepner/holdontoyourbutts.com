@@ -1,0 +1,22 @@
+{
+  "name": "holdontoyourbutts.com",
+  "version": "1.0.0",
+  "description": "For when you need Samuel L Jackson in Jurassic Park.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishepner/holdontoyourbutts.com.git"
+  },
+  "author": "Chris Hepner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrishepner/holdontoyourbutts.com/issues"
+  },
+  "homepage": "https://holdontoyourbutts.com",
+  "devDependencies": {
+    "serve": "^1.4.0"
+  }
+}
